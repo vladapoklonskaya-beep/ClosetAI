@@ -14,7 +14,6 @@ ClosetAI analyzes your clothes and generates outfit combinations.
 ## Tech Stack
 - Frontend:
 - Backend:
-- AI:
 User
  └── Wardrobe
       ├── Tops
